@@ -25,3 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/JPwpWzCkkt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 http://g.recordit.co/JPwpWzCkkt.gif
+
+Below is the added Login feature missing from the first gif
+
+<img src='http://g.recordit.co/rCxfpSnMo0.gif' title='Login Walkthrough' width='' alt='Login Walkthrough' />
